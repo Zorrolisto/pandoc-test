@@ -1,0 +1,2 @@
+pandoc presentation_test.md -t beamer -o presentation_test.pdf
+set recolor
